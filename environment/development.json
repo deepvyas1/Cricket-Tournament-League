@@ -1,0 +1,15 @@
+{
+    "dbCredentials": {
+      "mongo": {
+        "host": [
+          "localhost"
+        ],
+        "mongo_db": "criketLeague",
+        "username": "",
+        "password": ""
+      }
+    },
+    "jwtAppSecret": "test-secret",
+    "jwtTokenExpiryDuration": "12h"
+  }
+  
